@@ -145,25 +145,45 @@ Here are some ideas to get you started:
 
 ### GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=oktajianto&show_icons=true&theme=radical&hide_border=true&count_private=true" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oktajianto&layout=compact&theme=radical&hide_border=true" />
+</p> -->
+<p align="center">
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=oktajianto&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  
+</p>
+
+<p align="center">
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=oktajianto&layout=compact&theme=radical&hide_border=true" />
+
 </p>
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=oktajianto&theme=radical&hide_border=true" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=oktajianto&theme=radical&no-frame=true&row=1&column=6" />
+</p> -->
+<p align="center">
+  <img src="https://trophy.benkou.dev/?username=oktajianto&theme=radical&no-frame=true&row=1&column=6" />
 </p>
 
 ---
 
 ### Contribution Graph
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://ghchart.rshah.org/FF014F/oktajianto" alt="oktajianto's contribution graph" width="100%"/>
+</p> -->
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oktajianto/oktajianto/output/github-contribution-grid-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/oktajianto/oktajianto/output/github-contribution-grid.svg" />
+  <img alt="oktajianto's contribution graph" src="https://raw.githubusercontent.com/oktajianto/oktajianto/output/github-contribution-grid.svg" width="100%"/>
+</picture>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:FF014F&height=100&section=footer" width="100%"/>
