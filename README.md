@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF014F,100:1a1a2e&height=200&section=header&text=Hammam%20Oktajianto&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Web%20%26%20App%20Developer&descAlignY=55&descSize=18" width="100%"/>
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF014F,100:1a1a2e&height=200&section=header&text=Hammam%20Oktajianto&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Web%20%26%20App%20Developer&descAlignY=55&descSize=18" width="100%"/> -->
+<img src="banner.svg" width="100%"/>
 
 <a href="https://oktajianto.com">
 <img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=20&pause=1000&color=FF014F&center=true&vCenter=true&width=600&lines=Full-stack+Web+Developer;Flutter+Mobile+App+Developer;Electron+%2F+Tauri+Desktop+Developer;Always+learning+something+new" alt="Typing SVG" />
@@ -155,6 +156,14 @@ Here are some ideas to get you started:
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=oktajianto&theme=radical&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+### Contribution Graph
+
+<p align="center">
+<img src="https://ghchart.rshah.org/FF014F/oktajianto" alt="oktajianto's contribution graph" width="100%"/>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:FF014F&height=100&section=footer" width="100%"/>
