@@ -179,11 +179,18 @@ Here are some ideas to get you started:
 </p> -->
 
 <p align="center">
+<img alt="oktajianto's contribution activity" width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=oktajianto&bg_color=00000000&color=FF014F&line=FF014F&point=ffffff&area=true&area_color=FF014F&title_color=FF014F&text_color=888888&hide_border=true&custom_title=Hammam%20Oktajianto%27s%20Contribution%20Activity" />
+</p>
+
+<p align="center">
+<img alt="oktajianto's contribution calendar" src="assets/contribution-calendar.svg" />
+</p>
+<!-- <p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oktajianto/oktajianto/output/github-contribution-grid-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/oktajianto/oktajianto/output/github-contribution-grid.svg" />
   <img alt="oktajianto's contribution graph" src="https://raw.githubusercontent.com/oktajianto/oktajianto/output/github-contribution-grid.svg" width="100%"/>
 </picture>
-</p>
+</p> -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:FF014F&height=100&section=footer" width="100%"/>
