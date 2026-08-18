@@ -160,7 +160,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=oktajianto&theme=radical&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=oktajianto&theme=radical&hide_border=true" />
 </p>
 
 <!-- <p align="center">
