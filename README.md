@@ -150,12 +150,12 @@ Here are some ideas to get you started:
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oktajianto&layout=compact&theme=radical&hide_border=true" />
 </p> -->
 <p align="center">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=oktajianto&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats-henna-delta-33.vercel.app/api?username=oktajianto&show_icons=true&theme=radical&hide_border=true&count_private=true" />
   
 </p>
 
 <p align="center">
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=oktajianto&layout=compact&theme=radical&hide_border=true" />
+<img height="165" src="https://github-readme-stats-henna-delta-33.vercel.app/api/top-langs?username=oktajianto&layout=compact&theme=radical&hide_border=true" />
 
 </p>
 
@@ -179,7 +179,7 @@ Here are some ideas to get you started:
 </p> -->
 
 <p align="center">
-<img alt="oktajianto's contribution activity" width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=oktajianto&bg_color=00000000&color=FF014F&line=FF014F&point=ffffff&area=true&area_color=FF014F&title_color=FF014F&text_color=888888&hide_border=true&custom_title=Hammam%20Oktajianto%27s%20Contribution%20Activity" />
+<img alt="oktajianto's contribution activity" width="100%" src="https://github-readme-activity-graph-kappa-azure.vercel.app/graph?username=oktajianto&bg_color=00000000&color=FF014F&line=FF014F&point=ffffff&area=true&area_color=FF014F&title_color=FF014F&text_color=888888&hide_border=true&custom_title=Hammam%20Oktajianto%27s%20Contribution%20Activity" />
 </p>
 
 <p align="center">
