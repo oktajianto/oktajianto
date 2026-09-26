@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 
 | Periode | Perusahaan | Peran |
 |---|---|---|
-| 2025 – Sekarang | **PT Halim Inti Gahara** | Full-stack Developer *(Full time)* |
+| 2025 – August 2026 | **PT Halim Inti Gahara** | Full-stack Developer *(Full time)* |
 | 2024 – Sekarang | **Nest Academy** | Full-stack Developer *(Part time)* |
 | 2020 – Sekarang | **Smart Edukasi Indonesia** | Flutter Android & iOS Developer *(Hybrid)* |
 | 2019 – Sekarang | **Smart Edukasi Indonesia** | Desktop / macOS App Developer *(Hybrid)* |
